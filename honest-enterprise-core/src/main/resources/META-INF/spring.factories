@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.honest.enterprise.core.utils.IocContextUtils,\
+com.honest.enterprise.core.strategy.StrategyContext,\
+com.honest.enterprise.core.exception.GlobalExceptionHandler,\
+com.honest.enterprise.core.strategy.StrategyHandleProcessor
+

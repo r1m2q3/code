@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.honest.enterprise.config.config.MybatisPlusPaginationConfig,\
+com.honest.enterprise.config.config.SwaggerConfig,\
+com.honest.enterprise.config.config.ExecutorConfig,\
+com.honest.enterprise.config.config.CustomJacksonObjectMapper,\
+com.honest.enterprise.config.config.XxlJobConfig,\
+com.honest.enterprise.config.config.HttpConfig
+

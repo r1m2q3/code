@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.honest.enterprise.sequence.idsequence.IdService,\
+com.honest.enterprise.sequence.serialnumber.SerialNumberService

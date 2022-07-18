@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="honest-enterprise-core" />
+        <module name="honest-enterprise-feign-user" />
+        <module name="honest-enterprise-config" />
+        <module name="honest-enterprise-feign-core" />
+        <module name="honest-enterprise-sequence" />
+        <module name="honest-enterprise-mq" />
+        <module name="honest-enterprise-websocket" />
+        <module name="honest-enterprise-gateway" />
+        <module name="honest-enterprise-redis" />
+        <module name="honest-enterprise-user" />
+        <module name="honest-enterprise-user-dto" />
+        <module name="honest-enterprise-agent" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="code" options="" />
+      <module name="honest-enterprise-agent" options="-parameters" />
+      <module name="honest-enterprise-config" options="-parameters" />
+      <module name="honest-enterprise-core" options="-parameters" />
+      <module name="honest-enterprise-dto" options="" />
+      <module name="honest-enterprise-feign-api" options="" />
+      <module name="honest-enterprise-feign-core" options="-parameters" />
+      <module name="honest-enterprise-feign-user" options="-parameters" />
+      <module name="honest-enterprise-gateway" options="-parameters" />
+      <module name="honest-enterprise-middleware" options="" />
+      <module name="honest-enterprise-mq" options="-parameters" />
+      <module name="honest-enterprise-redis" options="-parameters" />
+      <module name="honest-enterprise-sequence" options="-parameters" />
+      <module name="honest-enterprise-user" options="-parameters" />
+      <module name="honest-enterprise-user-dto" options="-parameters" />
+      <module name="honest-enterprise-websocket" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/honest-enterprise-agent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/honest-enterprise-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/honest-enterprise-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/honest-enterprise-dto/honest-enterprise-user-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/honest-enterprise-feign-api/honest-enterprise-feign-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/honest-enterprise-feign-api/honest-enterprise-feign-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/honest-enterprise-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/honest-enterprise-middleware/honest-enterprise-mq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/honest-enterprise-middleware/honest-enterprise-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/honest-enterprise-middleware/honest-enterprise-sequence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/honest-enterprise-middleware/honest-enterprise-websocket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/honest-enterprise-user/src/main/java" charset="UTF-8" />
+  </component>
+</project>

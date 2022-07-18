@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "he-gateway.filter",
+      "type": "com.honest.enterprise.gateway.config.FilterProperties",
+      "sourceType": "com.honest.enterprise.gateway.config.FilterProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "he-gateway.filter.allow-paths",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.honest.enterprise.gateway.config.FilterProperties"
+    }
+  ],
+  "hints": []
+}

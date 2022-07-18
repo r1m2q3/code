@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.honest.enterprise.feign.core.config.FeignClientsConfiguration,\
+com.honest.enterprise.feign.core.config.FeignConfiguration,\
+com.honest.enterprise.feign.core.config.FeignScanEnable,\
+com.honest.enterprise.feign.core.config.FeignInterceptor,\
+com.honest.enterprise.feign.core.aop.AopFeignFallBack

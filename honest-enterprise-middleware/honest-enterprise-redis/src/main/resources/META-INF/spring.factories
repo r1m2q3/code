@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.honest.enterprise.redis.config.RedisConfig,\
+com.honest.enterprise.redis.config.LuaConfiguration,\
+com.honest.enterprise.redis.msg.MsgListener,\
+com.honest.enterprise.redis.config.RedissonConfig,\
+com.honest.enterprise.redis.config.RedisJsonConfig,\
+com.honest.enterprise.redis.config.ComponentScanConfig
+
